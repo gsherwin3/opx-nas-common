@@ -14,4 +14,4 @@
 # permissions and limitations under the License.
 
 export PYTHONPATH=$OPX_INSTALL_PATH/usr/lib/opx:$OPX_INSTALL_PATH/usr/lib/x86_64-linux-gnu/opx
-$OPX_INSTALL_PATH/usr/bin/python base-nas-shell.py
+$OPX_INSTALL_PATH/usr/bin/python $OPX_INSTALL_PATH/usr/bin/base-nas-shell.py
